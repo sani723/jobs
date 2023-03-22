@@ -10,6 +10,12 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 - Create custom API data fetching hooks
 - Write clean, organized, and maintainable code with proper architecture
 - Follow the best practices for React Native development
+- Custom hoojs for fetching data
+- Dynamic stylesheet
+- Responsive design across all devices
+- Search functionality
+- Pagination
+- Custom screen headers
 
 ## 🚀 How to use
 
